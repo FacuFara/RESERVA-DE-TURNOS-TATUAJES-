@@ -1,0 +1,68 @@
+/* Fondo general */
+body {
+  background-color: #1a1a1a;
+  color: #f1f1f1;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Título principal */
+h1 {
+  font-size: 2.5rem;
+  color: #f8d41f;
+  border-bottom: 2px solid #f8d41f;
+  padding-bottom: 10px;
+}
+
+/* Formulario */
+form input,
+form select,
+form textarea {
+  background-color: #2a2a2a;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+form input:focus,
+form select:focus,
+form textarea:focus {
+  border-color: #f8d41f;
+  box-shadow: 0 0 5px #f8d41f;
+}
+
+/* Botón reservar */
+button[type="submit"] {
+  background-color: #f8d41f;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #e6c10f;
+}
+
+/* Tarjetas de turno */
+.turno {
+  background-color: #2a2a2a;
+  border-left: 5px solid #f8d41f;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
+}
+
+/* Botón eliminar */
+.turno button {
+  margin-top: 10px;
+  background-color: #dc3545;
+  border: none;
+  padding: 5px 10px;
+  color: white;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.turno button:hover {
+  background-color: #a71d2a;
+}
