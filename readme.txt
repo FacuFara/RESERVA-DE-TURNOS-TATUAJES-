@@ -18,12 +18,4 @@ Funcionalidades principales:
 - Toda la información se guarda automáticamente en localStorage para mantener los datos aunque se recargue la página.
 - Estilos propios combinados con Bootstrap para que la app sea responsive y visualmente clara.
 
-Estructura del proyecto:
-- `index.html`: estructura principal de la web.
-- `css/style.css`: hoja de estilos personalizada.
-- `js/main.js`: lógica de la aplicación en JavaScript.
-
-Instrucciones para probar:
-Abrir `index.html` en el navegador (recomiendo usar Live Server si se trabaja con VSCode). Ingresar los datos en el formulario y presionar “Reservar Turno”. Los turnos se mostrarán debajo. Se pueden eliminar si es necesario. Los datos quedan guardados incluso si se cierra el navegador.
-
 Gracias por la revisión.
