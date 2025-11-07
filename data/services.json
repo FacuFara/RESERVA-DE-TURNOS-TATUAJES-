@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "estilo": "Línea fina",
+    "opciones": [
+      { "tamaño": "5x5 cm", "precio": 50000 },
+      { "tamaño": "10x10 cm", "precio": 80000 },
+      { "tamaño": "15x15 cm", "precio": 110000 }
+    ]
+  },
+  {
+    "id": 2,
+    "estilo": "Tradicional color",
+    "opciones": [
+      { "tamaño": "5x5 cm", "precio": 70000 },
+      { "tamaño": "10x10 cm", "precio": 100000 },
+      { "tamaño": "15x15 cm", "precio": 140000 }
+    ]
+  },
+  {
+    "id": 3,
+    "estilo": "Black & Grey",
+    "opciones": [
+      { "tamaño": "5x5 cm", "precio": 60000 },
+      { "tamaño": "10x10 cm", "precio": 90000 },
+      { "tamaño": "15x15 cm", "precio": 130000 }
+    ]
+  }
+]
